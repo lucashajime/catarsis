@@ -1,10 +1,10 @@
-# catarsis
+# Catarsis
 
 Em um contexto de postagem de fotos em carrossel com a finalidade de contar uma história.
 
 ## Endereço de Deploy - GitHub Pages
 
-https://utfpr-gp.github.io/catarsis/
+https://github.com/lucashajime/catarsis/tree/main
 
 ## Protótipo
 
