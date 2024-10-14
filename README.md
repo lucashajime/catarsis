@@ -1,6 +1,6 @@
 # Catarsis
 
-Em um contexto de postagem de fotos em carrossel com a finalidade de contar uma história.
+Plataforma de publicação de fotos com o adicional de uma breve história por trás das imagens.
 
 ## Endereço de Deploy - GitHub Pages
 
